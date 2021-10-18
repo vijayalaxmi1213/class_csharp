@@ -1,0 +1,14 @@
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.exe
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.deps.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.runtimeconfig.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.runtimeconfig.dev.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\bin\Debug\netcoreapp3.1\myfirst.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.csproj.AssemblyReference.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.AssemblyInfoInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.AssemblyInfo.cs
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.csproj.CoreCompileInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\myfirst\myfirst\obj\Debug\netcoreapp3.1\myfirst.genruntimeconfig.cache

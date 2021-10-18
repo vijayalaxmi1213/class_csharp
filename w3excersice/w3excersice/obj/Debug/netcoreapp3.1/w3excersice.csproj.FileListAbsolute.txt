@@ -1,0 +1,13 @@
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.exe
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.deps.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.runtimeconfig.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.runtimeconfig.dev.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\bin\Debug\netcoreapp3.1\w3excersice.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.AssemblyInfoInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.AssemblyInfo.cs
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.csproj.CoreCompileInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\w3excersice\w3excersice\obj\Debug\netcoreapp3.1\w3excersice.genruntimeconfig.cache

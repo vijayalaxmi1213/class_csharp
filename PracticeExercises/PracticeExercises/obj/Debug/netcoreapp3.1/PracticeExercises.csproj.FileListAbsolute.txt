@@ -1,0 +1,14 @@
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.exe
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.deps.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.runtimeconfig.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.runtimeconfig.dev.json
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\bin\Debug\netcoreapp3.1\PracticeExercises.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.csproj.AssemblyReference.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.AssemblyInfoInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.AssemblyInfo.cs
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.csproj.CoreCompileInputs.cache
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.dll
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.pdb
+C:\Users\Vijaya Vallabhaneni\Desktop\class_c#\PracticeExercises\PracticeExercises\obj\Debug\netcoreapp3.1\PracticeExercises.genruntimeconfig.cache
